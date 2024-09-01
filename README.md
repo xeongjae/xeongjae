@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20SungJae%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
 <!--
 **JMTcord/JMTcord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
