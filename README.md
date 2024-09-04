@@ -33,9 +33,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMTcord&layout=compact)](https://github.com/JMTcord/github-readme-stats)
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMTcord&layout=donut)](https://github.com/JMTcord/github-readme-stats)
 <!--
 **JMTcord/JMTcord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
