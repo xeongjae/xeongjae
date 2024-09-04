@@ -1,6 +1,6 @@
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,100:A371F7&height=300&section=header&text=Welcome!😊&desc=To%20SungJae's%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,100:A371F7&height=300&section=header&text=Welcome!😊&desc=to%20SungJae's%20Github.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
