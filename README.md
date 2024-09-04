@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMTcord&layout=pie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newsungjae0407&layout=pie" />
 </div>
 <!--
 **JMTcord/JMTcord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
