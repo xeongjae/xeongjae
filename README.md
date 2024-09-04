@@ -33,7 +33,9 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMTcord&layout=donut)](https://github.com/JMTcord/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMTcord&layout=pie" />
+</div>
 <!--
 **JMTcord/JMTcord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
