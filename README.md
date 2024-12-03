@@ -1,8 +1,8 @@
-<h2 align="center">Hey! Nice to see you 😄</h2>
-<p align="center">I'm KIM SUNG JAE, Junior developer from Seoul, South Korea </p>
+<h1>Hey! Nice to see you 😄</h1>
+<p>I'm KIM SUNG JAE, Junior developer from Seoul, South Korea </p>
 
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">💻 Confident stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" />&nbsp
@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
