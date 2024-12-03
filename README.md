@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <h3>🛠 Tools</h3>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
@@ -30,7 +28,6 @@
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<br>
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,100:A371F7&height=100&section=footer" />
 </div>
