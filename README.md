@@ -1,3 +1,5 @@
+<h3 align="center">Hey! Nice to see you 😄</h3>
+<h3 align="center">I'm KIM SUNG JAE, Junior developer from Seoul, South Korea </h3>
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
