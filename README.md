@@ -1,5 +1,5 @@
 <h1>Hey! Nice to see you 😄</h1>
-<p>I'm KIM SUNG JAE, Junior developer from Seoul, South Korea 🇰🇷</p>
+<p>I'm Sung Jae Kim, Junior developer from Seoul, South Korea 🇰🇷</p>
 
 
 <h3>💻 stack</h3>
