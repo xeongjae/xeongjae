@@ -1,8 +1,8 @@
-<h1>Hey! Nice to see you 😄</h1>
+<h1>Hey! Nice to see you 🦫🦦</h1>
 <p>I'm Sung Jae Kim, Junior developer from Seoul, South Korea 🇰🇷</p>
 
 
-<h3>💻 stack</h3>
+<h3>🪵 stack</h3>
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white" />&nbsp
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
 </div>
 
-<h3>🛠 Tools</h3>
+<h3>🪨 Tools</h3>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
