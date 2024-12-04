@@ -4,13 +4,12 @@
 
 <h3>💻 stack</h3>
 <div>
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />&nbsp
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=flat&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/SCSS-%23CC6670?style=flat&logo=sass&logoColor=ffd35b" />&nbsp
 </div>
@@ -18,7 +17,6 @@
 <div>
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white" />&nbsp
 </div>
 
 <h3>🛠 Tools</h3>
