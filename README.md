@@ -2,7 +2,7 @@
 <p>I'm KIM SUNG JAE, Junior developer from Seoul, South Korea 🇰🇷</p>
 
 
-<h3>💻 Confident stack</h3>
+<h3>💻 stack</h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" />&nbsp
