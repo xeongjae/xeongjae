@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
 </div>
 
-<h3>🪵 Tools</h3>
+<h3>🪵 Tool</h3>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
