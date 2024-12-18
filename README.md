@@ -23,13 +23,16 @@
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <h3>🌈 Contact</h3>
+<div>
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
+</div>
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4d4dff&height=100&section=footer" />
+   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=newsungjae0407@gmail.com&logoColor=61DAFB" />&nbsp
 </div>
 
 <!--
