@@ -26,11 +26,6 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<h3>🌈 Contact</h3>
-<div>
-   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=newsungjae0407@gmail.com&logoColor=61DAFB" />&nbsp
-</div>
-
 <!--
 **JMTcord/JMTcord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
