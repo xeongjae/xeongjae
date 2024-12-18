@@ -28,10 +28,6 @@
 
 <h3>🌈 Contact</h3>
 <div>
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat&logo=git&logoColor=white" />&nbsp
-</div>
-
-<div>
    <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=newsungjae0407@gmail.com&logoColor=61DAFB" />&nbsp
 </div>
 
