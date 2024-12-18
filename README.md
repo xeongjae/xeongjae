@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4d4dff&height=100&section=footer" />
+</div>
 
 <!--
 **JMTcord/JMTcord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
