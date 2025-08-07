@@ -17,6 +17,6 @@
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=xeongjae&show_icons=true&theme=radical"
-    style="width: 20%;"
+    style="width: 26.4%;"
   />
 </div>
