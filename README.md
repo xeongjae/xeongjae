@@ -1,5 +1,5 @@
-<h1>Hey! Nice to see you 😄</h1>
-<p>I'm Sung Jae Kim, Junior FE developer from Seoul, South Korea</p>
+<h1>Hello, I'm SungJae Kim</h1>
+<p>Junior FE developer from Seoul, South Korea</p>
 
 
 <h3>stack</h3>
