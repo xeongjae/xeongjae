@@ -1,6 +1,4 @@
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hello, I'm SeongJae Kim </h3>
-
-<hr>
+# Hello, I'm SeongJae Kim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> 
 
 <p><b>Frontend Developer</b> based in Seoul.</p>
 <p>Specializing in building web applications.</p>
