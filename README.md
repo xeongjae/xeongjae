@@ -1,4 +1,4 @@
-<h1>Hello, I'm SungJae Kim</h1>
+<h1>📌 About Me</h1>
 <p>FE developer from Seoul, South Korea</p>
 
 
