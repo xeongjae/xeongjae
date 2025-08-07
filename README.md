@@ -1,5 +1,5 @@
 <h1>Hello, I'm SungJae Kim</h1>
-<p>Junior FE developer from Seoul, South Korea</p>
+<p>FE developer from Seoul, South Korea</p>
 
 
 <h3>stack</h3>
