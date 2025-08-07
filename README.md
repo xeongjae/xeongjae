@@ -2,7 +2,7 @@
 
 <hr>
 
-<p><b>Frontend Developer</b> from Seoul</p>
+<p><b>Frontend Developer</b> based in Seoul.</p>
 <p>Specializing in building web applications.</p>
 
 <hr>
