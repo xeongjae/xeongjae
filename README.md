@@ -13,10 +13,10 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeongjae&layout=compact"
     alt="Top Langs"
-    style="width: 20%;"
+    style="width: 30%;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=xeongjae&show_icons=true&theme=radical"
-    style="width: 26.4%;"
+    style="width: 39.5%;"
   />
 </div>
