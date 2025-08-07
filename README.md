@@ -28,10 +28,10 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeongjae&layout=compact"
     alt="Top Langs"
-    style="width: 30%;"
+    style="width: 40%;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=xeongjae&show_icons=true&theme=radical"
-    style="width: 39.5%;"
+    style="width: 52.6%;"
   />
 </div>
