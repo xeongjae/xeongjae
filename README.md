@@ -9,6 +9,14 @@
 
 <hr>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeongjae&layout=compact" alt="Top Langs" style="width: 40%; max-width: 300px; height: auto;" />
+<div style="display: flex; justify-content: start; align-items: start; gap: 20px; flex-wrap: wrap;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeongjae&layout=compact"
+    alt="Top Langs"
+    style="width: 50%;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=xeongjae&show_icons=true&theme=radical"
+    style="width: 50%;"
+  />
 </div>
