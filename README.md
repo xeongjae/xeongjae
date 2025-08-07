@@ -1,5 +1,5 @@
-<p style="margin-bottom: 5px;">👋 Hi there :) I'm a <b>Frontend Developer</b> from Seoul, South Korea</p>
-<p style="margin-bottom: 5px;">🖥️ I specialize in building web applications.</p>
+<p style="margin-bottom: 5px;">Hi there :) I'm a <b>Frontend Developer</b> from Seoul, South Korea</p>
+<p style="margin-bottom: 5px;">I specialize in building web applications.</p>
 
 <hr>
 
