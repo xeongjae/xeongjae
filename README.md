@@ -14,13 +14,13 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4D4D4D?style=flat&logo=express&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-22A699?style=flat&logo=puppeteer&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-6366F1?style=flat&logo=socket.io&logoColor=white)
-
 ![Recoil](https://img.shields.io/badge/Recoil-6272a4?style=flat&logo=recoil&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-A06BFF?style=flat&logo=zotero&logoColor=white)
+
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-F48FB1?style=flat&logo=styled-components&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-22A699?style=flat&logo=puppeteer&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-6366F1?style=flat&logo=socket.io&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F54D27?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-475569?style=flat&logo=notion&logoColor=white)
