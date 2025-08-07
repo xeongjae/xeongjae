@@ -26,7 +26,7 @@
 
 <div style="display: flex; justify-content: start; align-items: start; gap: 20px; flex-wrap: wrap;">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeongjae&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeongjae&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=hkotlin""
     alt="Top Langs"
     style="width: 40%;"
   />
