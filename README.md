@@ -1,5 +1,9 @@
-<p style="margin-bottom: 5px;">Hi there :) I'm a <b>Frontend Developer</b> from Seoul, South Korea</p>
-<p style="margin-bottom: 5px;">I specialize in building web applications.</p>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hello, I'm SeongJae Kim </h3>
+
+<hr>
+
+<p><b>Frontend Developer</b> from Seoul</p>
+<p>Specializing in building web applications.</p>
 
 <hr>
 
