@@ -1,39 +1,24 @@
-# Hello, I'm SeongJae Kim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> 
+# console.log("SeongJae-Kim");
 
-<p><b>Frontend Developer</b> based in Seoul.</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />Hello i'm <b>Frontend Developer</b> based in Seoul.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /</p>
 <p>Specializing in building web applications.</p>
 
 <hr>
 
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/Typescript-2F74C0?style=flat&logo=typescript&logoColor=white)
+📚 Tech Stack
+
 ![React](https://img.shields.io/badge/React-149eca?style=flat&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/ReactNative-00C7B7?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-2F74C0?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-4D4D4D?style=flat&logo=express&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-6272a4?style=flat&logo=recoil&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-A06BFF?style=flat&logo=zotero&logoColor=white)
+🛠 Tools
 
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-F48FB1?style=flat&logo=styled-components&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-22A699?style=flat&logo=puppeteer&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-6366F1?style=flat&logo=socket.io&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F54D27?style=flat&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-475569?style=flat&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-444444?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
-<hr>
+🔍 Learning...
 
-<div style="display: flex; justify-content: start; align-items: start; gap: 20px; flex-wrap: wrap;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeongjae&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=radical&hide=hkotlin""
-    alt="Top Langs"
-    style="width: 40%;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xeongjae&show_icons=true&theme=radical"
-    style="width: 52.6%;"
-  />
-</div>
+![React Native](https://img.shields.io/badge/ReactNative-00C7B7?style=flat&logo=react&logoColor=white)
