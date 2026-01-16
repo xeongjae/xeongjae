@@ -1,3 +1,5 @@
+<div align="center">
+
 # console.log("SeongJae-Kim");
 
 <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />Hello i'm <b>Frontend Developer</b> based in Seoul.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /</p>
@@ -22,3 +24,5 @@
 🔍 Learning...
 
 ![React Native](https://img.shields.io/badge/ReactNative-00C7B7?style=flat&logo=react&logoColor=white)
+
+</div>
