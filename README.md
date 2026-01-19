@@ -2,7 +2,7 @@
 
 # console.log("SeongJae-Kim");
 
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />Hello i'm <b>Frontend Developer</b> based in Seoul.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /</p>
+<p><br/>Hello I'm Frontend Developer based in Seoul.</p>
 <p>Specializing in building web applications.</p>
 
 <hr>
@@ -17,8 +17,8 @@
 🛠 Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-444444?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-444444?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 🔍 Learning...
