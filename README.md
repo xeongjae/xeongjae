@@ -1,6 +1,6 @@
 <div align="center">
 
-# console.log("SeongJae-Kim");
+# console.log("SungJae-Kim");
 
 <p><br/>Hello I'm Frontend Developer based in Seoul.</p>
 <p>Specializing in building web applications.</p>
