@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-444444?style=flat&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 🔍 Learning...
 
