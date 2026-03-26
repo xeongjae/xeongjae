@@ -23,6 +23,10 @@
 
 🔍 Learning...
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ![React Native](https://img.shields.io/badge/React_Native-00C7B7?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
