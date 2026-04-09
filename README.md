@@ -1,6 +1,6 @@
 <div align="center">
 
-# console.log("SeongJae-Kim");
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> console.log("SeongJae-Kim");
 
 <p>Hello I'm Frontend Developer based in Seoul.</p>
 <p>Specializing in building web applications.</p>
