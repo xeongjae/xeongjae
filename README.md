@@ -29,6 +29,5 @@ Learning
 
 ![React Native](https://img.shields.io/badge/React_Native-00C7B7?style=for-the-badge&logo=react&logoColor=white)
 
----
 
 </div>
