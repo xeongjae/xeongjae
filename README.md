@@ -2,10 +2,10 @@
 
 # console.log("SeongJae-Kim");
 
-<p><br/>Hello I'm Frontend Developer based in Seoul.</p>
+<p>Hello I'm Frontend Developer based in Seoul.</p>
 <p>Specializing in building web applications.</p>
 
-<hr>
+---
 
 Tech Stack
 
@@ -28,5 +28,7 @@ Learning
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![React Native](https://img.shields.io/badge/React_Native-00C7B7?style=for-the-badge&logo=react&logoColor=white)
+
+---
 
 </div>
